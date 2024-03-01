@@ -2,7 +2,7 @@
 Hi, I am Anujsai.
 
 ## Website
-For more information about me and my projects, please visit my website:
+For more information about me and my projects, please visit my [GitHub Pages](https://pages.github.com/)
 
 https://amenephous.github.io
 
